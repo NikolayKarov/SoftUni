@@ -8,8 +8,8 @@ public class SoftUniParty {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        Set<String> vip = new TreeSet<>();
-        Set<String> regular = new TreeSet<>();
+        TreeSet<String> vip = new TreeSet<>();
+        TreeSet<String> regular = new TreeSet<>();
         String guest = scanner.nextLine();
 
         while (!guest.equals("PARTY")) {

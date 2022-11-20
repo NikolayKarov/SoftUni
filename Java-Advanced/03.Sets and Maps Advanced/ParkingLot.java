@@ -9,7 +9,7 @@ public class ParkingLot {
         Scanner scanner = new Scanner(System.in);
 
         String input = scanner.nextLine();
-        Set<String> parkingLot = new LinkedHashSet<>();
+        LinkedHashSet<String> parkingLot = new LinkedHashSet<>();
 
         while (!input.equals("END")) {
             String car = input.split(", ")[1];
