@@ -11,7 +11,7 @@ public class ProductShop {
 
         String input = scanner.nextLine();
 
-        TreeMap<String, LinkedHashMap<String, Double>> products = new TreeMap<>();
+        Map<String, LinkedHashMap<String, Double>> products = new TreeMap<>();
 
         while (!input.equals("Revision")) {
             String shop = input.split(", ")[0];
