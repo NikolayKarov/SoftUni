@@ -8,9 +8,9 @@ import java.util.Scanner;
 
 public class ReadFile {
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner scanner = new Scanner(System.in);
 
-        String path = "C:\\04. Java-Advanced-Files-and-Streams-Lab-Resources\\input.txt";
+        String path = "C:\\Users\\35987\\Desktop\\Streams, Files And Directories\\04. " +
+                "Java-Advanced-Files-and-Streams-Lab-Resources\\input.txt";
 
         try (InputStream inputStream = new FileInputStream(path)) {
             int nextByte = inputStream.read();
