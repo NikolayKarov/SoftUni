@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01.Basic Syntax, Conditional Statements and Loops" isTestSource="false" packagePrefix="BasicSyntaxConditionalStatementsAndLoops_Exercises" />
+      <sourceFolder url="file://$MODULE_DIR$/02.Data Types and Variables" isTestSource="false" packagePrefix="DataTypesAndVariables_Exercises" />
+      <sourceFolder url="file://$MODULE_DIR$/03.Arrays" isTestSource="false" packagePrefix="Arrays_Exercises" />
+      <sourceFolder url="file://$MODULE_DIR$/04.Methods" isTestSource="false" packagePrefix="Methods_Exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/05.Lists" isTestSource="false" packagePrefix="Lists_Exercises" />
+      <sourceFolder url="file://$MODULE_DIR$/06.Objects and Classes" isTestSource="false" packagePrefix="ObjectsAndClasses_Exercises" />
+      <sourceFolder url="file://$MODULE_DIR$/07.Associative Arrays" isTestSource="false" packagePrefix="AssociativeArrays_Exercises" />
+      <sourceFolder url="file://$MODULE_DIR$/08.Text Processing" isTestSource="false" packagePrefix="TextProcessing_Exercises" />
+      <sourceFolder url="file://$MODULE_DIR$/09.Regular Expressions" isTestSource="false" packagePrefix="RegularExpressions_Exercises" />
+      <sourceFolder url="file://$MODULE_DIR$/Final Exam Preparation" isTestSource="false" packagePrefix="FinalExamPreparation" />
+      <sourceFolder url="file://$MODULE_DIR$/Mid Exam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mid Exam Preparation" isTestSource="false" packagePrefix="MidExamPreparation" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
