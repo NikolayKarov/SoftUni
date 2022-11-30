@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/02.Multidimensional Arrays" isTestSource="false" packagePrefix="MultidimensionalArrays_Lab" />
       <sourceFolder url="file://$MODULE_DIR$/03.Sets and Maps Advanced" isTestSource="false" packagePrefix="SetsAndMapsAdvanced_Lab" />
       <sourceFolder url="file://$MODULE_DIR$/04. Streams, Files and Directories" isTestSource="false" packagePrefix="StreamsFilesAndDirectories_Lab" />
+      <sourceFolder url="file://$MODULE_DIR$/04.Streams, Files and Directories" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.FunctionalProgramming" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
