@@ -10,7 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/04.Streams, Files and Directories" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05.Functional Programming" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06.Defining Classes" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Generics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07.Generics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08.Iterators And Comparators" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
